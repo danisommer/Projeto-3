@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1686621628 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1686621628 c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1686621628 c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\imagem.h
+
+1686621628 c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\trabalho3.h
+	"imagem.h"
+
+1686621628 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1686847360 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1686847217 c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\t3-x-y-z.c
+	"main.c"
+	"trabalho.h"
+
+1686846713 c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+	"t3-x-y-z.c"
+
+1686847725 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\t3-x-y-z.c
+	"trabalho3.h"
+
+1686871770 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\test.c
+	"trabalho3.h"
+
