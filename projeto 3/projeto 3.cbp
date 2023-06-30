@@ -42,7 +42,7 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="test4.c">
+		<Unit filename="t3-2582708-2558092-2558033.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="trabalho3.h" />

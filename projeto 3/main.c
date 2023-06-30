@@ -23,7 +23,7 @@
 
 #define N_TESTES 100
 
-#define SALVA_INTERMEDIARIOS 1 /* Flag que diz se devemos salvar as imagens de teste. Desative se for rodar muitos testes! */
+#define SALVA_INTERMEDIARIOS 0 /* Flag que diz se devemos salvar as imagens de teste. Desative se for rodar muitos testes! */
 
 /*============================================================================*/
 
