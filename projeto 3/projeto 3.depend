@@ -19,7 +19,7 @@
 	<math.h>
 	"imagem.h"
 
-1687375195 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\main.c
+1687375338 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\main.c
 	<stdio.h>
 	<time.h>
 	"gerador_de_testes.h"
@@ -53,4 +53,8 @@
 1687375168 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\test5.c
 	"trabalho3.h"
 	"imagem.h"
+
+1688230893 source:c:\users\fabri\downloads\programação\projeto 3\projeto-3\projeto 3\t3-2582708-2558033-2558092.c
+	"trabalho3.h"
+	<math.h>
 
